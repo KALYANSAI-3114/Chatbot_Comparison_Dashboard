@@ -37,12 +37,12 @@ This dashboard answers critical business questions such as:
 
 ## Dataset
 - Metrics included:  
-  - `Avg_Accuracy`  
-  - `Avg_Clarity`  
-  - `Avg_Creativity`  
-  - `Avg_Relevance`  
-  - `Avg_User_Satisfaction`  
-  - `Avg_Response_Time`  
+  - `Accuracy`  
+  - `Clarity`  
+  - `Creativity`  
+  - `Relevance`  
+  - `User_Satisfaction`  
+  - `Response_Time`  
 - Prompt types include: Factual, Creative, Logical, Coding, Ambiguous  
 - Total records: **>100** entries for detailed analysis  
 
